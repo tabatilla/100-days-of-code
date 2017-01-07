@@ -20,3 +20,10 @@
 **Thoughts:** Tomorrow will be another day!
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 2: January 6th, 2017
+**Today's Progress**: Second attempt uploading and excel file.
+
+**Thoughts:** I think I almost done with this feature, I'll finish it tomorrow.
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
