@@ -27,3 +27,10 @@
 **Thoughts:** I think I almost done with this feature, I'll finish it tomorrow.
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 4: January 7th, 2017
+**Today's Progress**: Done importing Excel file
+
+**Thoughts:** There are things that still need to be added, but I'll keep moving
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
