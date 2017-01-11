@@ -34,3 +34,10 @@
 **Thoughts:** There are things that still need to be added, but I'll keep moving
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 5: January 10th, 2017
+**Today's Progress**: Created period model
+
+**Thoughts:** There is a bug in the headers for foreign fields, I don't know how to solve it yet!
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
