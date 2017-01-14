@@ -41,3 +41,10 @@
 **Thoughts:** There is a bug in the headers for foreign fields, I don't know how to solve it yet!
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 6: January 13th, 2017
+**Today's Progress**: Change name of period table!!! and developing stock's view
+
+**Thoughts:** Hard time triying to do a left join with linq
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
