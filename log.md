@@ -48,3 +48,17 @@
 **Thoughts:** Hard time triying to do a left join with linq
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 7: January 14th, 2017
+**Today's Progress**: I'm developing stock view :(
+
+**Thoughts:** I hope tomorrow I'll end this view
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 8: January 15th, 2017
+**Today's Progress**: Stock View! :(
+
+**Thoughts:** I need to focus more!
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
