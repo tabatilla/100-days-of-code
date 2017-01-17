@@ -62,3 +62,10 @@
 **Thoughts:** I need to focus more!
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 9: January 16th, 2017
+**Today's Progress**: Done with Stock Module
+
+**Thoughts:** Learned some joins with linq, It was interesting.
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
