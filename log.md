@@ -69,3 +69,31 @@
 **Thoughts:** Learned some joins with linq, It was interesting.
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 10: January 20th, 2017
+**Today's Progress**: Paging Stock module
+
+**Thoughts:** Learned more linq!
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 11: January 21th, 2017
+**Today's Progress**: Filter by product Stock module
+
+**Thoughts:** Learned even more linq!
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 12: January 22th, 2017
+**Today's Progress**: I tried to do an autocomplete for filter product
+
+**Thoughts:** this javascript event "keyup" works fine
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 13: January 23th, 2017
+**Today's Progress**: I finished some minor details of stock module
+
+**Thoughts:** Halfway to finish this project
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
