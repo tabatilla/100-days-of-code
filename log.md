@@ -108,6 +108,6 @@
 ### Day 15: January 26th, 2017
 **Today's Progress**: Fixed some bugs
 
-**Thoughts:** Hope end this project next week
+**Thoughts:** Hope end this project next week!!!
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
