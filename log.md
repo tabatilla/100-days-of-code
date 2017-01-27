@@ -97,3 +97,17 @@
 **Thoughts:** Halfway to finish this project
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 14: January 24th, 2017
+**Today's Progress**: JS on stock module
+
+**Thoughts:** New features comes to my mind, Is this project never ends
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 15: January 26th, 2017
+**Today's Progress**: Fixed some bugs
+
+**Thoughts:** Hope end this project next week
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
