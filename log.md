@@ -111,3 +111,10 @@
 **Thoughts:** Hope end this project next week!!!
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 16: January 28th, 2017
+**Today's Progress**: Added 3 new models, Order, OrderDetails, StockLog
+
+**Thoughts:** Its fun to start a new Module
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
