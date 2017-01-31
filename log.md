@@ -118,3 +118,10 @@
 **Thoughts:** Its fun to start a new Module
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 17: January 30th, 2017
+**Today's Progress**: Creating the view of Orders
+
+**Thoughts:** I'm a little confuse creating this view
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
