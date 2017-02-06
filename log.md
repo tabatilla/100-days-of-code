@@ -125,3 +125,17 @@
 **Thoughts:** I'm a little confuse creating this view
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 18: Febrary 2nd, 2017
+**Today's Progress**: I defined the way how it shows data in orders module
+
+**Thoughts:** I need some inspiration to finish this module :(
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 19: Febrary 5th, 2017
+**Today's Progress**: I'm going to make Orders Module with JS
+
+**Thoughts:** After all I get some inspiration
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
