@@ -139,3 +139,10 @@
 **Thoughts:** After all I get some inspiration
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 20: Febrary 12th, 2017
+**Today's Progress**: Some progress with JS with orders module
+
+**Thoughts:** It was a long break, never give up!
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
