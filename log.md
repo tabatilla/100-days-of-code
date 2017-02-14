@@ -146,3 +146,10 @@
 **Thoughts:** It was a long break, never give up!
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 21: Febrary 13th, 2017
+**Today's Progress**: Almost done with Orders
+
+**Thoughts:** new ideas for this module
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
