@@ -153,3 +153,31 @@
 **Thoughts:** new ideas for this module
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 22: Febrary 16th, 2017
+**Today's Progress**: Add and remove Orders done with JS
+
+**Thoughts:** I think the way I did it is correct, after some thinking
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 23: Febrary 17th, 2017
+**Today's Progress**: Fix View to submit the form
+
+**Thoughts:** Struggling to saving the orders model
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 24: Febrary 19th, 2017
+**Today's Progress**: Triying to save orders and update new stock
+
+**Thoughts:** I need to improve my linq skills
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 25: Febrary 22th, 2017
+**Today's Progress**: I finish order module, now it saves correctly order details
+
+**Thoughts:** searching some menu for the layout
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
