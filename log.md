@@ -181,3 +181,10 @@
 **Thoughts:** searching some menu for the layout
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 26: Febrary 26th, 2017
+**Today's Progress**: Doing a navigation menu from zero 
+
+**Thoughts:** having fun with css
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
