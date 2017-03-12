@@ -188,3 +188,31 @@
 **Thoughts:** having fun with css
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 27: March 3rd, 2017
+**Today's Progress**: I decided to use an already made theme for the app
+
+**Thoughts:** just to get things done quickly
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 28: March 5th, 2017
+**Today's Progress**: converting grids from kendo grid to datatable js
+
+**Thoughts:** I think kendo ui is easier
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 29: March 10th, 2017
+**Today's Progress**: I decided to go back to kendo Grid for the views
+
+**Thoughts:** I think is easier to work with kendo grid
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 30: March 12th, 2017
+**Today's Progress**: I finish my first form of this project from server side to front end 
+
+**Thoughts:** Getting closer to the end
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
