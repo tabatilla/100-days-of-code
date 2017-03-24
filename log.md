@@ -216,3 +216,22 @@
 **Thoughts:** Getting closer to the end
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 31: March 15th, 2017
+**Today's Progress**: Fix Employees module
+
+**Thoughts:** My PC was broken =(
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 32: March 17th, 2017
+**Today's Progress**: Working on another project for work
+
+**Thoughts:** Uploading Images to MVC .Net
+
+### Day 33: March 23th, 2017
+**Today's Progress**: Fix Employees and Span module
+
+**Thoughts:** Need to me more constant in this 100 project
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
