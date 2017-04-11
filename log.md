@@ -232,6 +232,34 @@
 ### Day 33: March 23th, 2017
 **Today's Progress**: Fix Employees and Span module
 
-**Thoughts:** Need to me more constant in this 100 project
+**Thoughts:** Need to be more constant in this 100 days core project
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 34: March 27th, 2017
+**Today's Progress**: Fix Employees and Span module
+
+**Thoughts:** From using simple forms now I'm using Kendo in this module
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 35: April 1st, 2017
+**Today's Progress**: Fix product module
+
+**Thoughts:** From using simple forms now I'm using Kendo in this module
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 36: April 2nd, 2017
+**Today's Progress**: Fix Stock module
+
+**Thoughts:** I was getting a weird error with linq fixed using order in a column with the kendo grid
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 37: April 10th, 2017
+**Today's Progress**: Refactoring controllers and fixing grids for product
+
+**Thoughts:** I hope this holidays I'll work harder in this project
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
