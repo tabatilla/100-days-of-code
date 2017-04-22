@@ -263,3 +263,10 @@
 **Thoughts:** I hope this holidays I'll work harder in this project
 
 **Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
+
+### Day 38 - 43: April 15th, 16th, 17th, 18th, 20th, 21th 2017
+**Today's Progress**: Order's module finished
+
+**Thoughts:** It was a lot of work but I'm focused.
+
+**Link to work:** [Little Kardex](https://github.com/tabatilla/LittleKardex)
